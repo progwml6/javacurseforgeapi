@@ -18,6 +18,7 @@ target/
 #gradle
 /build
 /.gradle
+/out
 
 #mac
 .DS_Store
